@@ -32,7 +32,7 @@ const Home = () => {
     }
 
     let options = {
-      contractAddress: "0x8E452D8573e2B1e8341D3f4aCC07939247cf99c6",
+      contractAddress: "process.env.SMART_CONTRACT_ADD",
       functionName: "addTweet",
       abi: [{
         "inputs": [
