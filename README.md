@@ -39,7 +39,7 @@ Polygon (Matic)
 ### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/izzie12/twitter-clone-dapp.git
-cd decentralized-twitter-clone
+cd twitter-clone-dapp
 ```
 
 ### 2. **Install Frontend Dependencies**
