@@ -93,5 +93,3 @@ After deployment:
 - Update `tweetsABI.json` and relevant Web3 config in your frontend to point to the new contract.
 
 ---
-
-Would you like me to also help you generate a `.env.example` file for users?
